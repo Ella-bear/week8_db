@@ -1,0 +1,13 @@
+Entities in the Spotify System
+    Users: Store information about users.
+
+    Artists: Information about artists who create the songs.
+
+    Albums: Grouping of songs by album.
+
+    Songs: Music tracks available for listening.
+
+    Playlists: User-created collections of songs.
+
+    Genres: Genres for each song.
+
